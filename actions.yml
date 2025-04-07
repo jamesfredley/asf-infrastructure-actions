@@ -604,6 +604,10 @@ peter-evans/create-pull-request:
   '*':
     expires_at: 2025-08-01
     keep: true
+peter-evans/repository-dispatch:
+  ff45666b9427631e3450c54a1bcbee4d9ff4d7c0:
+    expires_at: 2050-01-01
+    keep: true
 phoenix-actions/test-reporting:
   f957cd93fc2d848d556fa0d03c57bc79127b6b5e:
     expires_at: 2050-01-01
